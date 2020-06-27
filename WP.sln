@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WP", "WP\WP.csproj", "{B1170228-F04B-4354-9BDB-E981EB602694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1170228-F04B-4354-9BDB-E981EB602694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1170228-F04B-4354-9BDB-E981EB602694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1170228-F04B-4354-9BDB-E981EB602694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1170228-F04B-4354-9BDB-E981EB602694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://93nt.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WP\\WP.csproj
+		SccProjectName1 = WP
+		SccLocalPath1 = WP
+	EndGlobalSection
+EndGlobal
